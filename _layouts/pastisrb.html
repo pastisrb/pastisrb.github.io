@@ -64,9 +64,13 @@
         
         <div class="footer">  
           <p class="pagination">
-            <!--{block:NextPage}<a href="{NextPage}">&larr; Older</a>{/block:NextPage}
-            {CurrentPage}&nbsp;&frasl;&nbsp;{TotalPages}
-            {block:PreviousPage}<a href="{PreviousPage}">&rarr; Newer</a>{/block:PreviousPage}-->
+            {% if paginator.previous_page %}
+              <a href="{{ paginator.previous_page_path }}">&larr; Older</a>
+            {% endif %}
+            {{ paginator.page }}&nbsp;&frasl;&nbsp;{{ paginator.total_pages }}
+            {% if paginator.next_page %}
+              <a href="{{ paginator.next_page_path }}">Newer &rarr; </a>
+            {% endif %}
           </p>
           <p>- Thème <a href="http://tumblr.com" target="_blank">Tumblr</a> pastis.rb créé par <a href="http://cargocollective.com/mariecomet" target="_blank">Marie Comet</a> -</p>
         </div> <!-- end FOOTER -->

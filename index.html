@@ -4,7 +4,7 @@ title: pastis.rb
 lang: fr
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <div class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <div class="bodytype">
@@ -12,9 +12,13 @@ lang: fr
     </div>
     <div class="timestamp">
       <a href="{{ post.url }}">
-        {{ post.date | date_to_long_string }}
+        {{ post.date | formated_date }}
       </a>
     </div>
     <div class="clear"></div>
   </div>
 {% endfor %}
+
+
+
+
