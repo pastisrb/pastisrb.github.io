@@ -1,0 +1,5 @@
+name: pastis.rb
+description: Pastis Ruby Brigade
+lang: fr
+markdown: redcarpet
+pygments: true

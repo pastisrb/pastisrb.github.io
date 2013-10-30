@@ -1,0 +1,16 @@
+---
+layout: pastisrb
+lang: fr
+---
+
+<div class="post">
+  <div class="centre">
+    <h3><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+  </div>
+  <div class="bodytype">
+    {{ content }}
+  </div>
+  <div class="centre">
+    <div class="timestamp">{{ page.date | date_to_long_string }}</div>
+  </div>
+</div>
