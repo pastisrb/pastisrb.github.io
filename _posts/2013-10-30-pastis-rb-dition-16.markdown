@@ -33,7 +33,7 @@ La Bo[a]te
 __Quand ?__
 
 Mercredi 13 Novembre à 18h30  
-[ajouter l'événement à votre calendrier](/downloads/ics/pastis_rb%2316.ics)
+[Ajouter l'événement à votre calendrier](/downloads/ics/pastis_rb%2316.ics)
 
 __Je ramène quelque chose ?__
 
