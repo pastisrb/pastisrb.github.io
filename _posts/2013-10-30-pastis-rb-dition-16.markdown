@@ -18,7 +18,7 @@ Solution OSS basé sur le produit JBOSS AS7 et JRuby. Produit à la frontière d
 *  Contraintes
 *  Cas d'usage
 
-Que vous soyez inconditionnel ou pas de jRuby, cette solution est à connaître au même titre que Puma, Unicorn, Passenger (ndlr: rajoute en si tu en as :))
+Que vous soyez inconditionnel ou pas de jRuby, cette solution est à connaître au même titre que Puma, Unicorn, Passenger.
 
 __Envie de faire une présentation, exposer une problématique ?__
 
@@ -32,7 +32,8 @@ La Bo[a]te
 
 __Quand ?__
 
-Mercredi 13 Novembre à 18h30 [.ics](https://www.dropbox.com/s/y1czmfi3sp0wrrb/pastis_rb%2316.ics)
+Mercredi 13 Novembre à 18h30  
+[ajouter l'événement à votre calendrier](/downloads/ics/pastis_rb%2316.ics)
 
 __Je ramène quelque chose ?__
 
