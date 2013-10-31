@@ -5,3 +5,8 @@ markdown: redcarpet
 pygments: true
 paginate: 10
 paginate_path: 'page/:num'
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
