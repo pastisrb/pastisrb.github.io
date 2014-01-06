@@ -10,7 +10,7 @@ type: regular
 
 __Au programme__
 
-Une présentation de projet Rails guidé par les tests de [davidawea](https://twitter.com/davidawea).
+* Une présentation de projet Rails guidé par les tests par [@davidawea](https://twitter.com/davidawea)
 
 __Envie de faire une présentation, exposer une problématique ?__
 
