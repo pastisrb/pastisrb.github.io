@@ -12,7 +12,7 @@ __Au programme__
 
 [duckmole](https://twitter.com/duckmole) fera une présentation sur le développement dirigé par les tests, plus couramment appelé TDD.
 
-[davidawea](https://twitter.com/davidawea) fera un petit tour sur [Jekyll](http://jekyllrb.com/).
+[davidawea](https://twitter.com/davidawea) fera un petit tour sur [Jekyll](http://jekyllrb.com)
 
 __Envie de faire une présentation, exposer une problématique ?__
 
