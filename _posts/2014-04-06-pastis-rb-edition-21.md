@@ -12,7 +12,7 @@ __Au programme__
 
 **Attention**, exceptionnellement, nous nous retrouvons un **jeudi** soir.
 
-Davis fera une présentation de l'outil dont il se sert pour télécommander ses présentations.
+[Jérémy](http://twitter.com/jlecour) fera une présentation (thème à préciser).
 
 __Envie de faire une présentation, exposer une problématique ?__
 
