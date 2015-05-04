@@ -11,6 +11,8 @@ __Au programme :__
 
 Discussions, revue de code, questions/réponses, etc. à propos de Ruby et son écosystème.
 
+Il y aura en particulier une présentation sur les "Rails engines" par [Benoit Gantaume](https://twitter.com/gantaume).
+
 Si vous souhaitez proposer une présentation ou un sujet de discussion, envoyez un tweet [@pastisrb](https://twitter.com/pastisrb) !
 
 __Où ça se passe ?__
