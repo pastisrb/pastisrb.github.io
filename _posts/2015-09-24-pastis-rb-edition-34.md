@@ -7,7 +7,7 @@ type: regular
 
 ---
 
-__Au programme :__
+__Une nouvelle formule__
 
 Il est fréquent de se définir comme "_développeur Ruby_" ou "_développeur C_" alors qu'il est souvent plus juste de dire que tel ou tel langage est notre outil de préférence et qu'on utilise d'autres langages pour certains projets ou certaines taches.
 
@@ -22,6 +22,14 @@ Dès la soirée du **14 octobre 2015**, en pleine [Code Week](http://codeweek.eu
 **Venez nombreux** ce 14 octobre, pour "croiser les flux", parce qu'en vrai, c'est bien !
 
 <img src="/img/Ghostbusters-Cross-the-Streams-e1366912610178.jpg" />
+
+__Activités proposées__
+
+Après l'apéro qui permettra à tout le monde de faire connaissance, nous proposerons des petits ateliers thématiques pour aborder un sujet général, en s'appuyant sur un ou plusieurs langages.
+
+N'importe qui peut proposer (à l'avance ou improviser sur place) un atelier.
+
+[Jérémy Lecour](https://twitter.com/jlecour) fera une incursion dans le domaine de la **récursivité**, en utilisant **Elixir**. Il s'agira d'implémenter des fonctions basiques de listes en n'utilisant que les capacités de base du langage (pas de bibliothèque standard).
 
 __Où ça se passe ?__
 
