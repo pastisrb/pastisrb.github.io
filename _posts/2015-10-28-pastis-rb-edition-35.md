@@ -17,9 +17,13 @@ La soirée ne sera pas exclusivement consacrée à cette thématique. En venant 
 
 __Où ça se passe ?__
 
-La Bo[a]te<br />
-35 Rue de la Paix Marcel Paul<br />
-13001 Marseille
+Autrement<br />
+2 place Felix Baret<br />
+13006 Marseille
+
+(1er étage au dessus de La Poste St Ferréol/Préfecture)
+
+Pensez à [vous inscrire](http://doodle.com/poll/659n7b75ug6kyv7b) si vous souhaitez venir, ça aidera pour l'organisation.
 
 __Quand ?__
 
